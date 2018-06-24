@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/muhamadazmy/pipeline"
+	"github.com/muhamadazmy/go-pipeline"
 )
 
 func ExamplePipeline() {
